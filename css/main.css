@@ -1252,7 +1252,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .subhead--dark {
-    color: #000000;
+    color: #39b54a;
 }
 
 
@@ -2200,8 +2200,8 @@ html.no-csstransitions .home-content__main {
 .s-about {
     padding-top: 16.2rem;
     padding-bottom: 9rem;
-    background-color: #39b54a;
-    color: #010507;
+    background-color: #111111;
+    color: #FFFFFF;
     position: relative;
 }
 
@@ -3384,7 +3384,7 @@ footer .row {
     width: 100px;
     height: 180px;
     background: url("../images/logo-footer.png") no-repeat center;
-    background-size: 100px 180px;
+    background-size: 100px 18t0px;
     font: 0/0 a;
     text-shadow: none;
     color: transparent;
